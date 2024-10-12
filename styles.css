@@ -63,13 +63,13 @@ p {
 
 button {
     color: #6FBF44;
-    width: 112px;
-    height: 27px;
+    width: 124px;
+    height: 33px;
     font-weight: 500;
     font-size: 18px;
     line-height: 27px;
     border: none;
-    background: transparent;
     margin-top: 20px;
     cursor: pointer;
+    border-radius: 12px;
 }
