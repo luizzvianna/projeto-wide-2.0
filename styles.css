@@ -1,0 +1,75 @@
+* {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    font-weight: 400px;
+    margin: 20px;
+    font-size: 14px;
+    line-height: 21px;
+    color: #17233D;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+header {
+    margin-left: 30px;
+}
+
+.botaoverde {
+    color: aliceblue;
+    background: rgb(158, 202, 92);
+    width: 124px;
+    height: 51px;
+    left: 420px;
+    border-radius: 15px;
+    margin-top: 47px;
+    cursor: pointer;
+ }
+
+.imagemdoprojeto {
+    padding-left: 121px;
+}
+
+div {
+    display: inline-block;
+    margin-left: 85px;
+    width: 493px;
+}
+
+img {
+    margin-top: 163px;
+    margin-left: 121px;
+}
+
+
+h1 {
+    font-size: 62px;
+    line-height: 82px;
+    font-weight: 700;
+    color: #161A49;
+    width: 582px;
+   }
+
+p {
+    width: 493px;
+    height: 99px;
+    margin-top: 20px;
+}   
+
+
+button {
+    color: #6FBF44;
+    width: 112px;
+    height: 27px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    border: none;
+    background: transparent;
+    margin-top: 20px;
+    cursor: pointer;
+}
